@@ -1,12 +1,12 @@
 function conta() {
     alert("Está funcionando");
-    let = 5;
+    let n = 5;
     let fat = n;
     let pote = 0;
     let soma = 0;
     let i = n;
 
-    while (n > = 1) {
+    while (n >= 1) {
         pote = Math.pow(2, n);
         i = n;
         
